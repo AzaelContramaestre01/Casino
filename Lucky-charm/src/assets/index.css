@@ -1,0 +1,5 @@
+body,.App{
+  height: auto i !important;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
