@@ -1,0 +1,4 @@
+# casino
+
+NPM INSTALL
+NPM START
